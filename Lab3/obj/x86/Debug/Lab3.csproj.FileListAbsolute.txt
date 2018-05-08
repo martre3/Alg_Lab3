@@ -1,0 +1,5 @@
+/home/martynas/Projects/Lab3/Lab3/bin/Debug/Lab3.exe
+/home/martynas/Projects/Lab3/Lab3/bin/Debug/Lab3.pdb
+/home/martynas/Projects/Lab3/Lab3/obj/x86/Debug/Lab3.csproj.CoreCompileInputs.cache
+/home/martynas/Projects/Lab3/Lab3/obj/x86/Debug/Lab3.exe
+/home/martynas/Projects/Lab3/Lab3/obj/x86/Debug/Lab3.pdb

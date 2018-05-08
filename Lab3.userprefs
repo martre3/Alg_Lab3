@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8EBF1446-AB90-4FCD-B37E-12D5424369A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/ParametersDialog.cs">
+    <Files>
+      <File FileName="Lab3/Program.cs" Line="10" Column="76" />
+      <File FileName="Lab3/HeapSort.cs" Line="17" Column="32" />
+      <File FileName="Lab3/ISort.cs" Line="6" Column="32" />
+      <File FileName="Lab3/RandomDataSetGenerator.cs" Line="4" Column="40" />
+      <File FileName="Lab3/SpeedTest.cs" Line="21" Column="22" />
+      <File FileName="Lab3/DataSetsSorter.cs" Line="19" Column="25" />
+      <File FileName="Lab3/SortFactory.cs" Line="10" Column="30" />
+      <File FileName="Lab3/SortType.cs" Line="4" Column="25" />
+      <File FileName="Lab3/IDataSetsSorter.cs" Line="4" Column="22" />
+      <File FileName="Lab3/DataSetsThreadedSorter.cs" Line="42" Column="17" />
+      <File FileName="Lab3/Recursive.cs" Line="17" Column="9" />
+      <File FileName="Lab3/FTask.cs" Line="17" Column="46" />
+      <File FileName="Lab3/ITestable.cs" Line="6" Column="14" />
+      <File FileName="Lab3/FirstAssignment.cs" Line="10" Column="10" />
+      <File FileName="Lab3/SecondAssignment.cs" Line="4" Column="47" />
+      <File FileName="Lab3/ThreadedRecursive.cs" Line="61" Column="26" />
+      <File FileName="Lab3/AssignmentFactory.cs" Line="11" Column="36" />
+      <File FileName="Lab3/IAssignment.cs" Line="6" Column="24" />
+      <File FileName="Lab3/Assignment.cs" Line="6" Column="22" />
+      <File FileName="Lab3/ParametersDialog.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
